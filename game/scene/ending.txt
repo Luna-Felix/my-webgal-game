@@ -1,0 +1,2 @@
+bgm:goodluck.mp3;
+intro:感谢观看|旮旯给木制作团队：周梓晗 张亦弛 肖钦钦|剧情及人物设计：张亦弛 肖钦钦 周梓晗|游戏制作：周梓晗（制作工具：webgal）|立绘及封面：张亦弛（制作工具：即梦AI）|背景图片：肖钦钦（为了拍照还点了份吮指原味鸡）|如果觉得这是个好活，可以v50赞助一下😋 -hold -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;

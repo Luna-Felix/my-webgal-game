@@ -1,0 +1,7 @@
+Game_name:我的肠道不可能这么可爱！;
+Game_key:2095d12b1b9b0d;
+Title_img:start_2.jpg;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Description:北京大学通识核心课《医学通识：信息时代的健康素养（与医学部薄世宁老师合开）》的期末作业。小组成员（不分先后顺序）：周梓晗 张亦驰 肖钦钦。三个人为了整活搞的galgame！;
+Package_name:我的肠道不可能这么可爱！;

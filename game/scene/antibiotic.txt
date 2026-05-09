@@ -1,0 +1,16 @@
+bgm:s_Title.mp3;
+intro:第四章|抗生素的诱惑 -fontSize=medium -backgroundColor=rgba(252, 246, 230, 1) -fontColor=rgba(207, 180, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:antibiotic_1.jpg -next;
+:哎……昨晚打游戏到凌晨，今天还要早起上早八，好烦啊…… -fontSize=large;
+:感觉嗓子也不太舒服……咳咳……|（咳出黄色的痰） -fontSize=large;
+:！我是不是要感冒了 -fontSize=large;
+:我记得柜子里还有阿莫西林……要不要吃点呢 -fontSize=large;
+: -notend;
+changeFigure:good_sad_little.png -left -next -id=森永乳酸;
+森永乳酸:{玩家姓名}……请千万不要随便召唤那种名为“抗生素”的强大武器…… -id -figureId=森永乳酸 -fontSize=large;
+changeFigure:none -left -next -id=森永乳酸;
+changeFigure:bad_smile_big.png -right -next -id=宫泽肠奈;
+宫泽肠奈:别听她的，用那个吧，一下子就能“清扫”干净，多痛快呀。 -id -figureId=宫泽肠奈 -fontSize=large;
+: -notend;
+changeFigure:none -right -next -id=宫泽肠奈;
+choose:听奈奈的，为了感冒快点好，还是吃点抗生素吧:antibiotic_1.txt|听乳酸酱的，不随便吃抗生素，还是多喝水休息吧:antibiotic_2.txt;
